@@ -18,7 +18,7 @@ let food = [
         name:`GAS 3kg`,
         stok: 12,
         harga: 2500,
-        image: 'image/3kg.png'
+        image: '3kg.png'
     },
     {
   name:`galon`,
