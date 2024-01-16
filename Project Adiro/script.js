@@ -5,7 +5,7 @@ let food = [
     {
         name:`GAS 5.5KG`,
         stok: 2,
-        harga: 20000,
+        harga: 30000,
         image: 'image/5.5kg.png'
     },
     {
@@ -17,16 +17,58 @@ let food = [
     {
         name:`GAS 3kg`,
         stok: 12,
-        harga: 2500,
+        harga: 25000,
         image: '3kg.png'
     },
     {
-  name:`galon`,
+  name:`galon aqua`,
         stok: 20,
-        harga: 70000,
+        harga: 17000,
         image: 'image/galon.jpeg'
 
     },
+    {
+        name:`galon grand`,
+              stok: 20,
+              harga: 17000,
+              image: 'image/grand.png'
+      
+          },
+          {
+            name:`galon le mineral`,
+                  stok: 20,
+                  harga: 17000,
+                  image: 'image/lemin.png'
+          
+              },
+              {
+                name:`galon cleo`,
+                      stok: 20,
+                      harga: 17000,
+                      image: 'image/cleo.png'
+              
+                  },
+                  {
+                    name:`beras maknyuss 5 kg`,
+                          stok: 100,
+                          harga: 74000,
+                          image: 'image/maknyus.png'
+                  
+                      },
+                      {
+                        name:`beras pandan wangi 5 kg`,
+                              stok: 100,
+                              harga: 75000,
+                              image: 'image/pandan.png'
+                      
+                          },
+                          {
+                            name:`beras sania 5 kg`,
+                                  stok: 200,
+                                  harga: 71000,
+                                  image: 'image/sania.png'
+                          
+                              },
     
 ]
 
