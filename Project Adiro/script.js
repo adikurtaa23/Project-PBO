@@ -21,93 +21,99 @@ let food = [
         image: '3kg.png'
     },
     {
-  name:`galon aqua`,
+  name:`Galon Aqua`,
         stok: 20,
         harga: 17000,
         image: 'image/galon.jpeg'
 
     },
     {
-        name:`galon grand`,
+        name:`Galon Grand`,
               stok: 20,
               harga: 17000,
               image: 'image/grand.png'
       
           },
           {
-            name:`galon le mineral`,
+            name:`Galon Le Mineral`,
                   stok: 20,
                   harga: 17000,
                   image: 'image/lemin.png'
           
               },
               {
-                name:`galon cleo`,
+                name:`Galon Cleo`,
                       stok: 20,
                       harga: 17000,
                       image: 'image/cleo.png'
               
                   },
                   {
-                    name:`beras maknyuss 5 kg`,
+                    name:`Beras Maknyuss 5 kg`,
                           stok: 100,
                           harga: 74000,
                           image: 'image/maknyus.png'
                   
                       },
                       {
-                        name:`beras pandan wangi 5 kg`,
+                        name:`Beras Pandan Wangi 5 kg`,
                               stok: 100,
                               harga: 75000,
                               image: 'image/pandan.png'
                       
                           },
                           {
-                            name:`beras sania 5 kg`,
+                            name:`Beras Sania 5 kg`,
                                   stok: 200,
                                   harga: 71000,
                                   image: 'image/sania.png'
                           
                               },
                      {
-                                name:`minyak sania 1 liter`,
+                                name:`Minyak Goreng Sania 1 liter`,
                                       stok: 200,
                                       harga: 17000,
                                       image: 'image/minyak.png'
                               
                                   },
                          {
-                                    name:`minyak bimoli 1 liter`,
+                                    name:`Minyak Goreng Bimoli 1 liter`,
                                           stok: 200,
                                           harga: 19300,
                                           image: 'image/bimoli.png'
                                   
                                       },
                                  {
-                                    name:`minyak sunco 1 liter`,
+                                    name:`Minyak Goreng Sunco 1 liter`,
                                           stok: 200,
                                           harga: 18300,
                                           image: 'image/sunco.png'
                                   
                                       },
                                 {
-                                    name:`minyak filma 1 liter`,
+                                    name:`Minyak Goreng Filma 1 liter`,
                                           stok: 200,
                                           harga: 20300,
                                         image:'image/filma.png'
                                         },
                                     {
-                                                    name:`gula pasir rose brand 1 kg`,
+                                                    name:`Gula pasir Rose Brand 1 kg`,
                                                           stok: 200,
                                                           harga: 16100,
                                                           image: 'image/rose.png'
                                                         },
                                      {
-                                                            name:`gula pasir gulaku 1 kg`,
+                                                            name:`Gula pasir GULAKU 1 kg`,
                                                                   stok: 200,
                                                                   harga: 16000,
                                                                   image: 'image/gulaku.png'
                                                                 },
+                            {
+                                                                    name:`Gula pasir GMP 1 kg`,
+                                                                          stok: 200,
+                                                                          harga: 17000,
+                                                                          image: 'image/gmp.png'
+                                                                        },
 ]
 
 let cart = [
