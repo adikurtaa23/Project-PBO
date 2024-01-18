@@ -114,6 +114,13 @@ let food = [
                                                                           harga: 17000,
                                                                           image: 'image/gmp.png'
                                                                         },
+    {
+                                                                            name:`Tepung Terigu Segitiga Biru 1 kg`,
+                                                                                  stok: 200,
+                                                                                  harga: 13000,
+                                                                                  image: 'image/segitiga.png'
+                                                                                },
+    
 ]
 
 let cart = [
