@@ -96,6 +96,12 @@ let food = [
                                           harga: 20300,
                                         image:'image/filma.png'
                                         },
+                                    {
+                                                    name:`gula pasir rose brand 1 kg`,
+                                                          stok: 200,
+                                                          harga: 16100,
+                                                          image: 'image/rose.png'
+                                                        },
 ]
 
 let cart = [
