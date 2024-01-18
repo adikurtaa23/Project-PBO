@@ -90,7 +90,12 @@ let food = [
                                           image: 'image/sunco.png'
                                   
                                       },
-    
+                                {
+                                    name:`minyak filma 1 liter`,
+                                          stok: 200,
+                                          harga: 20300,
+                                        image:'image/filma.png'
+                                        },
 ]
 
 let cart = [
