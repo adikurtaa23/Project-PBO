@@ -102,6 +102,12 @@ let food = [
                                                           harga: 16100,
                                                           image: 'image/rose.png'
                                                         },
+                                     {
+                                                            name:`gula pasir gulaku 1 kg`,
+                                                                  stok: 200,
+                                                                  harga: 16000,
+                                                                  image: 'image/gulaku.png'
+                                                                },
 ]
 
 let cart = [
