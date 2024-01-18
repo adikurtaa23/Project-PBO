@@ -69,6 +69,13 @@ let food = [
                                   image: 'image/sania.png'
                           
                               },
+                     {
+                                name:`minyak sania 1 liter`,
+                                      stok: 200,
+                                      harga: 17000,
+                                      image: 'image/minyak.png'
+                              
+                                  },
     
 ]
 
