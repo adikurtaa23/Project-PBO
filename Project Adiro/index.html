@@ -763,7 +763,50 @@ section .main_btn:hover i{
     color: #fac031;
 }
 
+ @media(max-width: 768px)
+        {
+            body 
+            {
+                /*font-size: 15px;*/
+            }
+            .selection_label
+        {
+            width: 35%;
+            font-weight: bold;
+            font-size: 3vw;
+        }
+        .selection_input, .selection_output, .selection_button
+        {
+            width: 65%;
+        }
 
+        .txt_component, .lbl_component
+        {
+            width: 100%;
+            font-size: 4vw;
+
+        }
+
+        }
+        /*handphone*/
+        @media(max-width: 420px)
+        { 
+            body 
+            {
+                /*font-size: 15px;*/
+            }
+            .selection_area
+        {
+            flex-direction: column;
+        }
+        .selection_label, .selection_input, .selection_output, .selection_button
+
+        {
+            width: 100%;
+        }
+
+
+        }
 
 /*Footer*/
 
